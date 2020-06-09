@@ -1,0 +1,70 @@
+body{
+	background-color:#000;
+	margin-left:40px;
+	color:#fff;
+        font-size:15px;
+}
+h3{
+	text-align:center;
+	color:#999;
+	font-style:italic;
+	outline:1px;
+	text-decoration:dotted;
+	text-decoration-line:underline;
+}
+p#marks {
+	text-align: center;
+	margin-top: 33px;
+	font-size:12px;
+}
+
+#marks img{
+	position:relative;
+	height:20px;
+	top:7px;
+	color:blue;
+}
+.new{
+	background:green;
+	color:yellow;	
+}
+.drop{
+	background:red;
+	color:purple;
+	text-decoration:line-through;
+}
+p.photo{
+	font-family:sans;
+	background:#000;
+	font-size:19px;
+	color:#eee;
+
+}
+.addition {
+	padding-top:20px;
+	padding-bottom:20px;
+	border: solid ;
+	border-color:rgb(223, 127, 64);
+	text-align:center;
+	margin-top:20px;
+	margin-left:0px;
+	background-image:url(../images/tip.png);
+	background-repeat:no-repeat;
+	background-position:top left;
+}
+#marks{
+	background-color:white;
+	color:black;
+	margin-left:-40px;
+	padding-bottom:4px;
+
+}
+.notice{
+	width:200px;
+	float:right;
+	background-color:white;
+	color:black;
+	border:green;
+	padding:20px;
+}
+

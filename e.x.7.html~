@@ -1365,7 +1365,7 @@ body p {
 		 <link rel="stylesheet" href="css/hi.css">
                </head>
                <body>
-		       <h3>Python exercise 7</h3>
+		       <h3>Python exercise_7</h3>
 		       <ol>
 <li data-line="0">create a generator and using next method</li>
 </ol>
